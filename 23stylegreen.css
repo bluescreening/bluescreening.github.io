@@ -1,0 +1,168 @@
+@font-face {
+	font-family: 'powerchord';
+	src: url('fonts/DOTIMPACT.eot?#iefix') format('embedded-opentype'), 
+	     url('fonts/DOTIMPACT.woff') format('woff'), 
+	     url('fonts/DOTIMPACT.ttf')  format('truetype'),
+	     url('fonts/DOTIMPACT.svg#svgFontName') format('svg');
+	}
+	
+@font-face {
+  font-family: 'prototype';
+	src: url('fonts/Prototype.eot?#iefix') format('embedded-opentype'), 
+	     url('fonts/Prototype.woff') format('woff'), 
+	     url('fonts/Prototype.ttf')  format('truetype'),
+	     url('fonts/Prototype.svg#svgFontName') format('svg');
+  }
+
+body {
+  background-image: url("/icons_and_such/whitestarbg.gif");
+  font-size: 100%; /*Apparently neccessary to get em font sizes to work on some browsers*/
+  font-family: 'prototype';
+  color: lime;
+}
+
+h1 {
+  color: lime;
+  font-family: "powerchord";
+  font-weight: 100;
+  font-size: 4em;
+  text-shadow: 3px 3px 5px darkgreen;
+}
+
+h2 {
+  font-family: "powerchord";
+  font-weight: 100;
+  font-size: 3em;
+  text-decoration-line: underline;
+  text-decoration-color: yellow;
+}
+
+h3 {
+  font-family: "prototype", sans-serif;
+  color: yellow;
+  font-size: 2em;
+}
+
+a:link {
+  color: yellow;
+}
+
+a:visited {
+  color: chartreuse;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: White;
+}
+
+.headerbig {
+  background-image: url("/23style/bigheaderbggreen.png");
+  margin: 5px 10% 5px;
+  width: 80%;
+  height: 200px;
+  border-radius: 10px;
+  border: 2px solid yellow;
+  text-align: center;
+}
+
+.headersmall {
+  background-image: url("/23style/smallheaderbggreen.png");
+  margin: 5px 10% 5px;
+  width: 80%;
+  height: 80px;
+  border-radius: 10px;
+  border: 2px solid yellow;
+  text-align: center;
+}
+
+.navbar {
+  text-align: center;
+  background-color: black;
+  width: 80%;
+  margin: 5px 10% 5px;
+  font-family: "prototype", sans-serif;
+  border-radius: 10px;
+  font-size: 1.5em;
+  border: 2px solid yellow;
+}
+
+.navbar li{
+  display: inline-block;
+  list-style-type: none;
+}
+
+.navbar a{
+  text-decoration: none;
+}
+
+.sidebar{
+  text-align: left;
+  background-color: black;
+  width: 15%;
+  margin-left: 10%;
+  margin-right:0px;
+  margin-top:5px;
+  margin-bottom:5px;
+  font-family: "prototype", sans-serif;
+  border-radius: 10px;
+  float: left;
+  position: sticky;
+  top: 10px;
+  border: 2px solid yellow;
+  height: auto;
+}
+
+.sidebar li{
+  list-style-type: none;
+}
+
+.sidebar ul{
+  padding: 0px;
+  margin: 15px;
+}
+
+.content {
+  margin-left: 0px;
+  margin-right:10%;
+  margin-top:5px;
+  margin-bottom:5px;
+  padding: 20px;
+  text-align: center;
+  background-color: black;
+  border: 2px solid lime;
+  border-radius: 10px;
+  float: right;
+  width: 60%
+}
+
+@media screen and (max-width: 800px) {
+  .content{
+    margin: 5px 5% 5px;
+    width: 80%;
+  }
+  .headerbig {
+    margin: 5px 2.5% 5px;
+    width: 95%;
+    height: 140px;
+  }
+  
+  img{
+    width: 70%;
+  }
+  
+  .headersmall{
+    margin: 5px 2.5% 5px;
+    width: 95%;
+  }
+  .navbar{
+    margin: 5px 2.5% 5px;
+    width: 95%;
+  }
+  .sidebar{
+    width: 80%;
+    position: relative;
+}
