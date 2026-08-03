@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Risk of Rain 2 or: How I learned to stop worrying and love the bungus"
+---
+
+My journey with Risk of Rain 2 was somewhat of a frog-boiling. I first encountered it in 2023, when my ex-girlfriend shoved her laptop in my direction on the floor of my student flat, and told me to see how long I could survive. I ran around aimlessly for a while. Perhaps I found a chest, I don't remember, but I didn't last long before getting bored and handing it off to someone else.![Risk of Rain 2 gameplay.](/assets/images/blog-pics/risk-of-rain-1.jpg)
+
+Risk of Rain 2 is not an easy game to get into. You are (in most cases) a soldier, part of a rescue party for a missing spaceship that, unbeknownst to you, has no survivors. It isn't long before this becomes a matter of your own survival. The game provides you with only one objective:
+
+> Find and activate the Teleporter.
+
+You are not told what the Teleporter is, or how to find it. The characters jog, aimless and bewildered, across the open plains of Stage 1. Their strange weapons are barely enough to deal with the sad beetles that hop around. They are slow. You cannot see their faces. I did not care much for Risk of Rain 2.
+
+Luckily for me, my friends have much more patience for slow learning curves than I do. It wasn't long before two more of them picked up the game. They studied physics and mathematics, and I think that gave them the kind of temperament the designers were aiming for. It wasn't long before many of our hangouts as a group were characterised by a multiplayer run, and eventually I saw enough bright lights and fun colours to drop some money on my own copy and give it another go.
+
+I can't say that that was the perfect environment for one to learn Risk of Rain, but it did show me what's possible, what I might be able to do with a little practice. One of my friends had already completed Eclipse 8 with most characters, and the gameplay loop mostly involved me running around the map, trying not to die while running between the places where he left me loot, constructing a build for me. I mostly played Commando because he's closest to a normal third person shooter character. When I got my first ever really good proc build, it was like my third eye opened. I wanted to play for another three hours. I felt like I could fight the sun. Most importantly, I wanted to learn how to play the odds and find out how to consistently get amazing runs like that. And that was how it started.![Risk of Rain 2 gameplay.](/assets/images/blog-pics/risk-of-rain-2.jpg)
+
+After a while, I worked out the core gameplay loop and what most of the items did, and was able to fend for myself a bit more in multiplayer games. I also started playing more single player - sticking on some YouTube in the background and seeing what I could do. I learned about visiting the Newt, pottered around in Void Fields, and even plucked up the courage to try some other characters. It took me a while to beat Mithrix for the first time, especially given I had none of the DLCs, but once I did, it was the final nail in the coffin of obsession. My girlfriend gave me the DLCs for Christmas last year, and since then I've been steadily working on 100%ing the game. This is not an easy feat for me - I am not good at games in general - but I'm having so much dang fun that I truly believe I'm going to do it. I'm up to over 430 hours now.
+
+The design of the game is meticulous. For one thing, the low-poly art style is both beautiful and efficient, for when there are billions of particles on the screen. It's charming. The music is truly exceptional and should be considered one of the greatest video game soundtracks of all time in my opinion. Each character teaches you about a new aspect of the game, a new way you could be playing, something you could improve upon, such that playing a variety of characters improves your performance in all of them. The items are largely designed well and allow you to essentially go for any build you like. The logbook adds an element of underappreciated charm and surprisingly deep lore to the whole experience. It's an excellent game and I love it with my whole heart.
+
+In summary, if you think you would hate Risk of Rain 2, you should play Risk of Rain 2.
